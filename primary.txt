@@ -3,3 +3,5 @@ wpis nr 1
 zmiana nr 1
 
 zmiana nr2
+
+this is master branch i kropka
