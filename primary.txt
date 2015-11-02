@@ -4,4 +4,5 @@ zmiana nr 1
 
 zmiana nr2
 
-new branch new_feat
+new_feat i kropka
+
