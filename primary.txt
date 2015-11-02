@@ -4,5 +4,6 @@ zmiana nr 1
 
 zmiana nr2
 
-removed entry for new branch
+release line i kropka
+
 
